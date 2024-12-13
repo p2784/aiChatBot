@@ -1,0 +1,4 @@
+flask
+line-bot-xdk==2.4.2
+gunicorn
+google-generativeai
